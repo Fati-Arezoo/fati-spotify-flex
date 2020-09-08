@@ -1,0 +1,30 @@
+:root{
+    --light:#fff;
+    --black:#000;
+    --green:#1ED760;
+    --blu:#2940a8;
+}
+/* General Reset and Settings */
+
+
+html{
+    color: var(--light);
+}
+
+body{
+    font-family: 'circular Regular';
+    font-weight: 0.9rem;
+}
+
+
+
+a{
+    text-decoration: none;
+    font-size: 16px;
+    line-height:1.4;
+    
+}
+
+ul{
+    list-style: none;
+}
